@@ -1,0 +1,6 @@
+venv/
+.vscode/
+.git/
+Ak.egg-info/
+build/
+dist/
